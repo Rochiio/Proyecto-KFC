@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repositories.ProductosRepositoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-03-20T17:41:38" hostname="RO-PC" time="0.042">
+  <properties/>
+  <testcase name="addProducto()" classname="repositories.ProductosRepositoryTest" time="0.027"/>
+  <testcase name="modificarProductos()" classname="repositories.ProductosRepositoryTest" time="0.002"/>
+  <testcase name="existByName()" classname="repositories.ProductosRepositoryTest" time="0.001"/>
+  <testcase name="removeProducto()" classname="repositories.ProductosRepositoryTest" time="0.002"/>
+  <testcase name="modificarProductosException()" classname="repositories.ProductosRepositoryTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
